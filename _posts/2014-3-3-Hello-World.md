@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Тестовое задание для documentat.io
 published: true
 ---
 
