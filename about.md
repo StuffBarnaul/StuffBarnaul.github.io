@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: ''
 permalink: /about/
 published: true
 ---
 
-Тестовое задание для documentat.io
+# Тестовое задание для documentat.io 
